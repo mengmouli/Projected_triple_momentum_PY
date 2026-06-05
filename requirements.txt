@@ -1,0 +1,4 @@
+cvxpy==1.9.1
+matplotlib==3.10.9
+Mosek==11.2.1
+pip==26.1.2
